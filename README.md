@@ -1,5 +1,5 @@
 # Python_Basics
-variables, types ,opperators and control flow (conditional)
+variables, types ,operators
 # Creating Variables
 Unlike other programming languages, Python has no command for declaring a variable.               
 •	A variable is created the moment you first assign a value to it.
